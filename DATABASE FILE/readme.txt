@@ -1,14 +1,9 @@
-
-
 **Database Name: orrsphp**
 
-
 **Recommended PHP Version: 5.6, 7.4, 8.1**
-
 
 **Admin Login Details**
 
 Email   : admin@mail.com
 Password: admin
-
 
